@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_MainSubjects(TemelKonular)", "01_MainSubjects(TemelKonular)\01_MainSubjects(TemelKonular).csproj", "{867A100D-05D9-4AF2-BED6-C11DA7203B3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Variables", "02_Variables\02_Variables.csproj", "{35492AE1-9EB1-42FF-A15B-70BE6C4EBAE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{867A100D-05D9-4AF2-BED6-C11DA7203B3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{867A100D-05D9-4AF2-BED6-C11DA7203B3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{867A100D-05D9-4AF2-BED6-C11DA7203B3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{867A100D-05D9-4AF2-BED6-C11DA7203B3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35492AE1-9EB1-42FF-A15B-70BE6C4EBAE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35492AE1-9EB1-42FF-A15B-70BE6C4EBAE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35492AE1-9EB1-42FF-A15B-70BE6C4EBAE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35492AE1-9EB1-42FF-A15B-70BE6C4EBAE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1864190-36B4-4FE4-9155-3F2B06AD5A8E}
+	EndGlobalSection
+EndGlobal
