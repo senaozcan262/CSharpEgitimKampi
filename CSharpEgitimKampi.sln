@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_MakingDecision(KararYapi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Loops(Donguler)", "04_Loops(Donguler)\04_Loops(Donguler).csproj", "{DC3272F7-D4BC-4D6D-9612-0B927A0127FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_Methods", "08_Methods\08_Methods.csproj", "{41BACC6B-B0E8-4BDA-AD9A-6B567B46D9D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_DatabaseProject", "09_DatabaseProject\09_DatabaseProject.csproj", "{73E8E648-5380-49AA-BB71-2C9C59FF8895}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{DC3272F7-D4BC-4D6D-9612-0B927A0127FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC3272F7-D4BC-4D6D-9612-0B927A0127FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC3272F7-D4BC-4D6D-9612-0B927A0127FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41BACC6B-B0E8-4BDA-AD9A-6B567B46D9D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41BACC6B-B0E8-4BDA-AD9A-6B567B46D9D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41BACC6B-B0E8-4BDA-AD9A-6B567B46D9D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41BACC6B-B0E8-4BDA-AD9A-6B567B46D9D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73E8E648-5380-49AA-BB71-2C9C59FF8895}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73E8E648-5380-49AA-BB71-2C9C59FF8895}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73E8E648-5380-49AA-BB71-2C9C59FF8895}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73E8E648-5380-49AA-BB71-2C9C59FF8895}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
